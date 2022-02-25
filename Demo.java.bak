@@ -1,0 +1,14 @@
+
+public class demo
+{
+	
+	static String name="hari";
+	public static void main(String[] args)
+	{	
+		int age=19;
+		
+		
+	    //this stmtbis used for display
+		System.out.println(name);
+	}
+}

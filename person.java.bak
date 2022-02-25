@@ -1,0 +1,13 @@
+public class person{
+	
+	int age ;
+	String name;
+	
+	
+	person( String name, int ag)
+	{
+		this.age=ag;
+		this.name=name;
+	}
+}
+
